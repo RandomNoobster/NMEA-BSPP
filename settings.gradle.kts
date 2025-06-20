@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BSPP"
 include(":app")
- 
+include(":plugin")
